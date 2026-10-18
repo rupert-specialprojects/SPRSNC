@@ -20,9 +20,9 @@ window.LAUNCHES = {
     maxMach: 0.89,
     apogeeFt: 4320,
     media: {
-      photoTall: { src: "media/brothers-photo-9x16.jpg",  alt: "Photo from the Brothers, Oregon launch (portrait)" },
+      photoTall: { src: "Brotherslaunch1.jpg",  alt: "Photo from the Brothers, Oregon launch (portrait)" },
       videoTall: { src: "media/brothers-launch-9x16.mp4", alt: "Video of the Brothers, Oregon launch (portrait)", poster: "" },
-      photoWide: { src: "media/brothers-photo-5x4.jpg",   alt: "Photo from the Brothers, Oregon launch" }
+      photoWide: { src: "Brotherslaunch2.jpg",   alt: "Photo from the Brothers, Oregon launch" }
     }
   },
   next: { motor: "Cesaroni I540", short: "I540" }
