@@ -21,7 +21,7 @@ window.LAUNCHES = {
     apogeeFt: 4320,
     media: {
       photoTall: { src: "Brotherslaunch1.jpg",  alt: "Photo from the Brothers, Oregon launch (portrait)" },
-      videoTall: { src: "media/brothers-launch-9x16.mp4", alt: "Video of the Brothers, Oregon launch (portrait)", poster: "" },
+      videoTall: { src: "IMG_5051.mov", alt: "Video of the Brothers, Oregon launch (portrait)", poster: "" },
       photoWide: { src: "Brotherslaunch2.jpg",   alt: "Photo from the Brothers, Oregon launch" }
     }
   },
