@@ -22,7 +22,8 @@ window.LAUNCHES = {
     media: {
       photoTall: { src: "Brotherslaunch1.jpg",  alt: "Photo from the Brothers, Oregon launch (portrait)" },
       videoTall: { src: "IMG_5051.mov", alt: "Video of the Brothers, Oregon launch (portrait)", poster: "" },
-      photoWide: { src: "Brotherslaunch2.jpg",   alt: "Photo from the Brothers, Oregon launch" }
+      photoWide: { src: "Brotherslaunch2.jpg",   alt: "Photo from the Brothers, Oregon launch" },
+      photoTall: { src: "Spindle Flight 1 Stills.png",  alt: "Photo from the Brothers, Oregon launch (portrait)" },
     }
   },
   next: { motor: "Cesaroni I540", short: "I540" }
