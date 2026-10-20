@@ -5,7 +5,7 @@ window.SITE = {
 };
 
 window.VLOG = {
-  video: "https://www.youtube.com/watch?v=jXKhnYmLNc8",
+  video: "https://www.youtube.com/watch?v=w2qwudjxcxc",
   thumbnail: ""
 };
 
